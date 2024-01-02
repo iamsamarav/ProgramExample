@@ -54,11 +54,13 @@ namespace ProgramExample.Models
             }
         }
 
-        public void Apresentar(){
+        public void Apresentar()
+        {
             Console.WriteLine($"Aluno: {Nome} e {Idade}");
         }
 
-        public void Testar(){
+        public void Testar()
+        {
             
         }
     }

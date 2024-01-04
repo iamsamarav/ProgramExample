@@ -8,9 +8,13 @@ namespace ProgramExample.Models
    public class Gerente : Pessoa
    {
       private decimal Salario { get; set; }
-      
+
         public Gerente(string nome, int idade, string cpf, decimal salario) : base(nome, idade, cpf){
             Salario = salario;
+        }
+
+        public void ExibirSalario(decimal Salario){
+            Console.WriteLine($"Seu salário por padrão é {Salario}");
         }
    }
 }

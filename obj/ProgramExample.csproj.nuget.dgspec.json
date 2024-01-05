@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FUSION DMS\\OneDrive\\Documentos\\GitHub\\Projetos\\ProgramExample\\ProgramExample.csproj": {}
+    "C:\\Users\\samar\\Documents\\GitHub\\ProgramExample\\ProgramExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FUSION DMS\\OneDrive\\Documentos\\GitHub\\Projetos\\ProgramExample\\ProgramExample.csproj": {
+    "C:\\Users\\samar\\Documents\\GitHub\\ProgramExample\\ProgramExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FUSION DMS\\OneDrive\\Documentos\\GitHub\\Projetos\\ProgramExample\\ProgramExample.csproj",
+        "projectUniqueName": "C:\\Users\\samar\\Documents\\GitHub\\ProgramExample\\ProgramExample.csproj",
         "projectName": "ProgramExample",
-        "projectPath": "C:\\Users\\FUSION DMS\\OneDrive\\Documentos\\GitHub\\Projetos\\ProgramExample\\ProgramExample.csproj",
-        "packagesPath": "C:\\Users\\FUSION DMS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FUSION DMS\\OneDrive\\Documentos\\GitHub\\Projetos\\ProgramExample\\obj\\",
+        "projectPath": "C:\\Users\\samar\\Documents\\GitHub\\ProgramExample\\ProgramExample.csproj",
+        "packagesPath": "C:\\Users\\samar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samar\\Documents\\GitHub\\ProgramExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\FUSION DMS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\samar\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

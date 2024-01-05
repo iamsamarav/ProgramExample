@@ -54,9 +54,14 @@ namespace ProgramExample.Models
             }
         }
 
-        public void Apresentar()
+        public void Apresentar(string nome)
         {
-            Console.WriteLine($"Aluno: {Nome} e {Idade}");
+            Console.WriteLine($"Olá, eu me chamo {Nome} e sou cliente do banco");
+        }
+
+        public void Apresentar(string nome, string filial)
+        {
+            Console.WriteLine($"Olá, eu me chamo {Nome} e  sou gerente da filial {filial}");
         }
 
         public void Testar()

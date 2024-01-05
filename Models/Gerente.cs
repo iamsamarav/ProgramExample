@@ -16,5 +16,10 @@ namespace ProgramExample.Models
         public void ExibirSalario(decimal Salario){
             Console.WriteLine($"Seu salário por padrão é {Salario}");
         }
+
+        public void RelatorioFilial(string filial){
+            //implementar o retorno da quantidade de clientes
+            Console.WriteLine("O banco possui")
+        }
    }
 }

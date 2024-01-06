@@ -18,9 +18,9 @@ namespace ProgramExample.Models
     
     public void Sacar(decimal valor)
     {
-        if(salda >= valor)
+        if(saldo >= valor)
         {
-            saldo-=
+            saldo-=valor;
         }
     }
    }

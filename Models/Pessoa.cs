@@ -64,9 +64,9 @@ namespace ProgramExample.Models
             Console.WriteLine($"Olá, eu me chamo {Nome} e  sou gerente da filial {filial}");
         }
 
-        public void Testar()
+        public string GetNome()
         {
-            
+            return _nome;
         }
     }
 }

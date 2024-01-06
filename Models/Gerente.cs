@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ProgramExample.Models;
 
 namespace ProgramExample.Models
 {
@@ -19,7 +20,11 @@ namespace ProgramExample.Models
 
         public void RelatorioFilial(string filial){
             //implementar o retorno da quantidade de clientes
-            Console.WriteLine("O banco possui")
+            Console.WriteLine("O banco possui");
+        }
+        //Verificar esse get
+        public void GetGerente(string nome){
+            Console.WriteLine($"Gerente {nome}");
         }
    }
 }
